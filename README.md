@@ -7,13 +7,13 @@ Software Developer
 🧑‍💻 Software developer for specific Frontend Developer, Currently I'm fresher (2023 Batch), Seeking for a Developer role with Working abilities with ReactJS, JavaScript ES6.
 
 * 🌍  I'm based in Bengaluru
-* 🖥️  See my portfolio at [MyPortfolio](http://www.example.com)
+* 🖥️  See my portfolio at [My Portfolio](http://www.example.com)
 * ✉️  You can contact me at [info.srikanthsankar@gmail.com](mailto:info.srikanthsankar@gmail.com)
 * 🧠  I'm learning JavaScript, React, MongoDB, Oracle SQL, Java
 * 🤝  I'm open to collaborating on Freelancing Projects
 * ⚡  My inspiration is My Dad and Robert Downey Jr.
 
-<a href="https://www.github.com/https//www.github.com/Srikanth-IO" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/Srikanth-IO" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/https//www.github.com/Srikanth-IO?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
@@ -32,13 +32,13 @@ src="https://img.shields.io/github/followers/https//www.github.com/Srikanth-IO?l
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/https//www.github.com/Srikanth-IO"><img src="https://github-readme-stats.vercel.app/api?username=https//www.github.com/Srikanth-IO&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="https//www.github.com/Srikanth-IO's GitHub stats" /></a>
+<a href="http://www.github.com/Srikanth-IO"><img src="https://github-readme-stats.vercel.app/api?username=https//www.github.com/Srikanth-IO&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="https//www.github.com/Srikanth-IO's GitHub stats" /></a>
 
-<a href="http://www.github.com/https//www.github.com/Srikanth-IO"><img src="https://github-readme-streak-stats.herokuapp.com/?user=https//www.github.com/Srikanth-IO&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Srikanth-IO"><img src="https://github-readme-streak-stats.herokuapp.com/?user=https//www.github.com/Srikanth-IO&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/https//www.github.com/Srikanth-IO"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=https//www.github.com/Srikanth-IO&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Srikanth-IO"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=https//www.github.com/Srikanth-IO&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/https//www.github.com/Srikanth-IO" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https//www.github.com/Srikanth-IO&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Srikanth-IO" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https//www.github.com/Srikanth-IO&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
