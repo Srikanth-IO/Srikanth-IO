@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Srikanth Sankar
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Srikanth Sankar
 =======================================================================================================================================
 
-Frontend Developer
+Software Developer
 ------------------
 
 🧑‍💻 Software developer for specific Frontend Developer, Currently I'm fresher (2023 Batch), Seeking for a Developer role with Working abilities with ReactJS, JavaScript ES6.
