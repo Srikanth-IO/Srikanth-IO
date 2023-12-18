@@ -1,7 +1,9 @@
 Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Srikanth Sankar
 =======================================================================================================================================
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media0.giphy.com/media/mFwqFZx1HxfQ4hwkz9/giphy.gif?cid=ecf05e47zl2zrxxc3x0q1h0mitvz7sw623acnub2q73n8khv&ep=v1_gifs_related&rid=giphy.gif&ct=g)" width="100"/>
+</div>
 
 Software Developer
 ------------------
